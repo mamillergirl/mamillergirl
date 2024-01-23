@@ -7,7 +7,7 @@ I'm a senior software engineering student ready to code up a storm. Quick rundow
 
 ### Real-World Coding Stints 💼
 - **Internship:** Clinisys (Jun 2023 - Aug 2023)
-  - React and ASP.NET for a lab analytics web platform.
+  - TypeScript React and C# API for a lab analytics web platform.
 - **Projects:** 
   - Rexburg SuperSaver Web App (Oct 2023)
   - Task API (Apr 2023)
