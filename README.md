@@ -1,6 +1,6 @@
 # Hey, I'm Marisa 👩‍💻
 
-I'm a senior software engineering student ready to code up a storm. Quick rundown:
+I'm a new grad software engineer ready to code up a storm. Quick rundown:
 
 - **Education:** B.S. in Software Engineering (GPA: 4.0/4.0) with a minor in Web Design and Development (Apr 2024).
 - **Skills:** TypeScript, JavaScript, ReactJS, C#, Python, MongoDB, and more.
